@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 String inputText = etInput.getText().toString();
                 int charCount = inputText.length();
 
-                String message = String.format("СТУДЕНТ № 21 ГРУППА БИСО-02-20 Количество символов - %d", charCount);
+                String message = String.format("СТУДЕНТ № 14 ГРУППА БИСО-02-20 Количество символов - %d", charCount);
 
                 Toast.makeText(
                         MainActivity.this,
